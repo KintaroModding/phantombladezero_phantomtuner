@@ -1,0 +1,14 @@
+{
+  "name": "Phantom Tuner",
+  "folder": "phantombladezero_phantomtuner",
+  "author": "Kintaro",
+  "version": "1.1",
+  "description": "One mod for the numbers of the game: enemy health, damage and Sha-Chi by enemy class, the player's attack and speed, breaks, ultimate charge, rewards and loading waits. Every value is set in config.lua and read again while the game runs; the shipped file changes nothing.",
+  "kind": "ue4ss",
+  "game": "phantombladezero",
+  "gameFolder": "PBZ",
+  "win64Path": "platform\\steam",
+  "gameVersion": "CL-302256_JKS-17280",
+  "engine": "UE5_7",
+  "ue4ss": "v4.0.0"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "Phantom Tuner",
+  "summary": "Tune the game's numbers in config.lua: enemy stats by class, your attack and speed, breaks, ultimate charge, rewards, loading waits.",
+  "games": ["phantom-blade-zero"],
+  "tags": ["gameplay"],
+  "requires": ["UE4SS (tested with v4.0.0)"],
+  "gameVersions": ["Steam build 26367565"],
+  "cover": "docs/cover.png"
+}
