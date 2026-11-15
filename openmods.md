@@ -33,7 +33,7 @@ regen is not either: use [Passive Regen](https://github.com/KintaroModding/phant
 
 ## Screenshots
 
-![Phantom Tuner](docs/cover.png)
+![Phantom Tuner](docs/cover.webp)
 
 ## How to install
 
